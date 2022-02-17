@@ -18,57 +18,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2022%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 19 Contributions in the Year 2022
- > 
-> 📦 271 Bytes Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    5 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-🌃 Evening    21 commits     ███████████████████░░░░░░   77.78% 
-🌙 Night      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       7 commits      ██████░░░░░░░░░░░░░░░░░░░   25.93% 
-Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-Wednesday    16 commits     ██████████████░░░░░░░░░░░   59.26% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-```
-
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2029%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Mexico_City
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -86,10 +44,6 @@ Jupyter Notebook         1 repo              ██████░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/luisced02031/luisced02031/master/charts/bar_graph.png) 
-
-
- Last Updated on 17/02/2022 01:51:45 UTC
+ Last Updated on 17/02/2022 01:57:34 UTC
 <!--END_SECTION:waka-->
