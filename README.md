@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [CRM - CapitalTech](https://stg-crmpv.finmaster.mx/)
 - 🌱 I’m currently learning **FrontEnd Tools**
 - 💬 Ask me about **Python, SQL, Flask**
-- 📫 How to reach me **luisced02031@gmail.com**
+- 📫 How to reach me **luis.cedillo.maldonado@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
