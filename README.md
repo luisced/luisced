@@ -23,23 +23,21 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2016%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 31 mins      █████████████████████░░░░   86.82% 
-HTML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.76% 
-CSS                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Python                   18 hrs 34 mins      ██████████████████████░░░   88.22% 
+HTML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.74% 
+JavaScript               36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92% 
+CSS                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 🔥 Editors: 
-VS Code                  14 hrs 26 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 3 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  14 hrs 26 mins      █████████████████████████   100.0%
+Windows                  21 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
@@ -54,5 +52,5 @@ Jupyter Notebook         2 repos             █████░░░░░░�
 
 
 
- Last Updated on 08/03/2022 05:54:51 UTC
+ Last Updated on 08/03/2022 06:11:03 UTC
 <!--END_SECTION:waka-->
