@@ -23,37 +23,39 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%204%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.02% 
-CSS                      6 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   35.33% 
-HTML                     2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38% 
-JavaScript               1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+CSS                      10 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   29.98% 
+HTML                     8 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.37% 
+TypeScript               8 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26% 
+Python                   5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
+JSON                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
 
 🔥 Editors: 
-VS Code                  17 hrs 8 mins       █████████████████████████   100.0%
+VS Code                  34 hrs 27 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  17 hrs 8 mins       █████████████████████████   100.0%
+Linux                    22 hrs 23 mins      ████████████████░░░░░░░░░   64.97% 
+Windows                  12 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   35.03%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ████████████░░░░░░░░░░░░░   50.0% 
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Jupyter Notebook         2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+Python                   6 repos             ███████████░░░░░░░░░░░░░░   46.15% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
 
 
- Last Updated on 14/03/2022 00:46:29 UTC
+ Last Updated on 27/04/2022 15:34:55 UTC
 <!--END_SECTION:waka-->
