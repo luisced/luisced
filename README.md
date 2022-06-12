@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2059%20mins-blue)
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -41,7 +41,7 @@ Windows                  5 hrs 24 mins       ███████████�
 
 ```
 
-**💻 I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75% 
@@ -54,5 +54,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:55:44 UTC
+ Last Updated on 12/06/2022 08:14:01 UTC
 <!--END_SECTION:waka-->
