@@ -23,7 +23,7 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2023%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,15 +47,15 @@ Linux                    12 mins             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+Python                   8 repos             ███████████░░░░░░░░░░░░░░   47.06% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
 
 
- Last Updated on 29/06/2022 00:43:01 UTC
+ Last Updated on 29/06/2022 03:04:28 UTC
 <!--END_SECTION:waka-->
