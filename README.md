@@ -23,7 +23,7 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,7 +45,7 @@ Windows                  0 secs              ░░░░░░░░░░░�
 
 ```text
 Python                   8 repos             ███████████░░░░░░░░░░░░░░   44.44% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
@@ -54,5 +54,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2022 21:26:52 UTC
+ Last Updated on 08/08/2022 21:38:38 UTC
 <!--END_SECTION:waka-->
