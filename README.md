@@ -23,23 +23,24 @@
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 7 mins         █████████████░░░░░░░░░░░░   51.84% 
-Python                   1 hr 2 mins         ████████████░░░░░░░░░░░░░   47.83% 
-AutoHotkey               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+C#                       1 hr 15 mins        ███████████████░░░░░░░░░░   60.78% 
+Python                   44 mins             █████████░░░░░░░░░░░░░░░░   35.98% 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
+AutoHotkey               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 4 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-WSL                      2 hrs 10 mins       █████████████████████████   99.69% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+WSL                      2 hrs 3 mins        █████████████████████████   99.67% 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 ```
 
@@ -56,5 +57,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2022 05:11:12 UTC
+ Last Updated on 20/08/2022 05:30:52 UTC
 <!--END_SECTION:waka-->
