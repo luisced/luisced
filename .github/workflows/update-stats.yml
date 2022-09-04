@@ -13,7 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.API_TOKEN_WAKA_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
           COMMIT_MESSAGE: "Automated Coding Activity Update"
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
