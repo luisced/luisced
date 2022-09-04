@@ -10,9 +10,17 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: avinal/Profile-Readme-WakaTime@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.API_TOKEN_WAKA_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
-          BRANCH: "master"
-          COMMIT_MSG: "Automated Coding Activity Update"
+          COMMIT_MESSAGE: "Automated Coding Activity Update"
+          SHOW_TITLE: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: last_6_months
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          
+          
+          
+          
