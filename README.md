@@ -48,9 +48,5 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-
-
-<img
-  src="https://github.com/luisced/luisced/blob/master/images/stat.svg"
-  alt="Alternative Text"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
