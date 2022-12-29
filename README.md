@@ -49,7 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 June 2022 - To: 27 December 2022
+[![wakatime](https://wakatime.com/badge/user/c7405de5-ee2f-4399-b19b-e2a8e8fd5856.svg)](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
 
 Total Time: 256 hrs 43 mins
 
