@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am UTC
-    - cron: "1 0 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
@@ -17,10 +17,9 @@ jobs:
           COMMIT_MESSAGE: "Automated Coding Activity Update"
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: last_6_months
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          
+          TIME_RANGE: "all_time"
           
           
           
