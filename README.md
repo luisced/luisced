@@ -50,13 +50,11 @@
 [![wakatime](https://wakatime.com/badge/user/c7405de5-ee2f-4399-b19b-e2a8e8fd5856.svg)](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,094 Contributions in the Year 2022
+> 🏆 1,095 Contributions in the Year 2022
  > 
 > 📦 106.1 kB Used in GitHub's Storage 
  > 
@@ -79,5 +77,5 @@ Shell                    2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 29/12/2022 22:22:34 UTC
+ Last Updated on 29/12/2022 23:34:17 UTC
 <!--END_SECTION:waka-->
