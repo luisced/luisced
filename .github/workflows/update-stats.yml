@@ -13,7 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.API_TOKEN_WAKA_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN  }}
           COMMIT_MESSAGE: "Automated Coding Activity Update"
           SHOW_LINES_OF_CODE: true
           SHOW_DAYS_OF_WEEK: false
