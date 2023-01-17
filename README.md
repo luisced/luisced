@@ -8,8 +8,8 @@
 </link>
 
 - 🔭 I’m currently working on [CRM - CapitalTech](https://stg-crmpv.finmaster.mx/) and <a href="https://github.com/heben-mx/zen">zen</a>
-- 🌱 I’m currently learning **FrontEnd Tools**
-- 💬 Ask me about **Python, SQL, Flask, Automation, Angular**
+- 🌱 I’m currently learning **FrontEnd Tools and Web Scrapping**
+- 💬 Ask me about **Python, SQL, Flask, Automation, React**
 - 📫 How to reach me **luis.cedillo.maldonado@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
