@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋,%20I'm%20Luis%20Cedillo%20;Junior%20Python%20Developer;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=33bced&vCenter=true&size=25"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋,%20I'm%20Luis%20Cedillo%20Python%20Developer;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=33bced&vCenter=true&size=25"></a>
 </p>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
