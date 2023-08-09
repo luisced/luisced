@@ -7,9 +7,8 @@
 <h3 align="center" style="font-family:'Fira Code',normal;">What I'm doing now?</h3>
 </link>
 
-- 🔭 I’m currently working on [CRM - CapitalTech](https://stg-crmpv.finmaster.mx/) and <a href="https://github.com/heben-mx/zen">zen</a>
 - 🌱 I’m currently learning **FrontEnd Tools and Web Scrapping**
-- 💬 Ask me about **Python, SQL, Flask, Automation, React**
+- 💬 Ask me about **Python, SQL, Flask, Automation, React, Swift, AWS**
 - 📫 How to reach me **luis.cedillo.maldonado@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,6 +17,59 @@
 <a href="https://www.facebook.com/luis.cedillo.792/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis cedillo" height="30" width="40" /></a>
 <a href="https://instagram.com/lui._.cedm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lui._.cedm" height="30" width="40" /></a>
 </p>
+
+
+```python
+class Person:
+    def __init__(self, name, profession, interests, aspirations):
+        self.name = name
+        self.profession = profession
+        self.interests = interests
+        self.aspirations = aspirations
+    
+    def introduce(self):
+        intro = f"👋 Hi there! I'm {self.name}, a {self.profession}."
+        return intro
+    
+    def describe_interests(self):
+        interests_desc = f"🕹️ When I'm not coding, you can find me playing videogames, exploring new technologies, and jamming to rock music."
+        return interests_desc
+    
+    def describe_aspirations(self):
+        aspirations_desc = f"🚀 My ultimate goal is to become a {self.aspirations}, contributing to the world of backend and cybersecurity."
+        return aspirations_desc
+
+# Personal information
+name = "Luis"
+profession = "Python Developer"
+interests = ["videogames", "technology", "rock music"]
+aspirations = "backend/cybersecurity engineer"
+
+# Create a Person instance
+luis = Person(name, profession, interests, aspirations)
+
+# Generate Markdown content
+intro = luis.introduce()
+interests_desc = luis.describe_interests()
+aspirations_desc = luis.describe_aspirations()
+
+# Personal information
+name = "Luis"
+profession = "Python Developer"
+interests = ["videogames", "technology", "rock music"]
+aspirations = "backend/cybersecurity engineer"
+
+# Create a Person instance
+luis = Person(name, profession, interests, aspirations)
+
+# Generate Markdown content
+intro = luis.introduce()
+interests_desc = luis.describe_interests()
+aspirations_desc = luis.describe_aspirations()
+
+
+```
+
 
 <h3 align="left">Languages and Tools 📎:</h3>
 
@@ -50,8 +102,12 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Amazon AWS[(https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 [![wakatime](https://wakatime.com/badge/user/c7405de5-ee2f-4399-b19b-e2a8e8fd5856.svg)](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
 
