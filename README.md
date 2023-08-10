@@ -18,7 +18,6 @@
 <a href="https://instagram.com/lui._.cedm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lui._.cedm" height="30" width="40" /></a>
 </p>
 
-![Descriptive Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F105553185002480695%2F&psig=AOvVaw2J0IP7VPm-7Ijkm9rXpHA-&ust=1691644475037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiRw_DozoADFQAAAAAdAAAAABAE)
 
 ```python
 class Person:
