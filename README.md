@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/luis-cedillo-maldonado-8585b0221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis cedillo maldonado" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/luis-cedillo-maldonado-7122a5247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis cedillo maldonado" height="30" width="40" /></a>
 <a href="https://www.facebook.com/luis.cedillo.792/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis cedillo" height="30" width="40" /></a>
 <a href="https://instagram.com/lui._.cedm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lui._.cedm" height="30" width="40" /></a>
 </p>
