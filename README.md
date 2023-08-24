@@ -48,25 +48,9 @@ aspirations = "backend/cybersecurity engineer"
 # Create a Person instance
 luis = Person(name, profession, interests, aspirations)
 
-# Generate Markdown content
 intro = luis.introduce()
 interests_desc = luis.describe_interests()
 aspirations_desc = luis.describe_aspirations()
-
-# Personal information
-name = "Luis"
-profession = "Python Developer"
-interests = ["videogames", "technology", "rock music"]
-aspirations = "backend/cybersecurity engineer"
-
-# Create a Person instance
-luis = Person(name, profession, interests, aspirations)
-
-# Generate Markdown content
-intro = luis.introduce()
-interests_desc = luis.describe_interests()
-aspirations_desc = luis.describe_aspirations()
-
 
 ```
 
