@@ -16,7 +16,9 @@ jobs:
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # require
+          REPOSITORY: luisced/luisced # optional
+
           ### meta
           ### content
           SHOW_TITLE: true # optional
