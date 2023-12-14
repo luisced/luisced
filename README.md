@@ -7,8 +7,8 @@
 <h3 align="center" style="font-family:'Fira Code',normal;">What I'm doing now?</h3>
 </link>
 
-- 🌱 I’m currently learning **FrontEnd Tools and Web Scrapping**
-- 💬 Ask me about **Python, SQL, Flask, Automation, React, Swift, AWS**
+- 🌱 I’m currently learning **Rust**
+- 💬 Ask me about **API's, SQL, Flask, Automation, React, Swift, AWS**
 - 📫 How to reach me **luis.cedillo.maldonado@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
