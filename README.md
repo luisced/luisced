@@ -96,7 +96,7 @@ aspirations_desc = luis.describe_aspirations()
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 February 2022 - To: 22 February 2024
+From: 16 February 2022 - To: 23 February 2024
 
 Total Time: 885 hrs 40 mins
 
