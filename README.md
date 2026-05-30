@@ -96,18 +96,18 @@ aspirations_desc = luis.describe_aspirations()
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 February 2022 - To: 26 May 2026
+From: 16 February 2022 - To: 28 May 2026
 
-Total Time: 2,350 hrs 55 mins
+Total Time: 2,354 hrs 26 mins
 
-Python                     1,141 hrs 5 mins      >>>>>>>>>>>>-------------   47.29 %
-TypeScript                 349 hrs 49 mins       >>>>---------------------   14.50 %
+Python                     1,141 hrs 41 mins     >>>>>>>>>>>>-------------   47.25 %
+TypeScript                 350 hrs 23 mins       >>>>---------------------   14.50 %
 CSS                        99 hrs 59 mins        >------------------------   04.14 %
-Bash                       97 hrs 53 mins        >------------------------   04.06 %
-C#                         86 hrs 22 mins        >------------------------   03.58 %
-JavaScript                 74 hrs 14 mins        >------------------------   03.08 %
-C++                        66 hrs 44 mins        >------------------------   02.77 %
-Other                      62 hrs 9 mins         >------------------------   02.58 %
+Bash                       97 hrs 53 mins        >------------------------   04.05 %
+C#                         86 hrs 22 mins        >------------------------   03.57 %
+JavaScript                 74 hrs 14 mins        >------------------------   03.07 %
+C++                        66 hrs 44 mins        >------------------------   02.76 %
+Other                      61 hrs 51 mins        >------------------------   02.56 %
 ```
 
 <!--END_SECTION:waka-->
