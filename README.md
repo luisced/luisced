@@ -1,56 +1,21 @@
-# Luis Cedillo
+<a href="https://luiscedillo.com"><img src="assets/profile-hero.svg" width="100%" alt="Luis Cedillo — Ideas into systems. Human direction. Machine-scale possibility." /></a>
 
-### I build AI systems that do real work.
+<p align="center">
+  <a href="https://luiscedillo.com">EXPLORE MY WORLD</a> &nbsp; / &nbsp;
+  <a href="https://linkedin.com/in/luisced">LET’S CONNECT</a> &nbsp; / &nbsp;
+  <a href="mailto:me@luiscedillo.com">START SOMETHING</a>
+</p>
 
-Co-Founder & CTO at **Dopamina** and **iLuk**. Data Intelligence & Cybersecurity student at Universidad Panamericana. Based in Mexico City.
+<img src="assets/profile-workbench.svg" width="100%" alt="The workbench — Dopamina turns a thought into a marketing team. iLuk turns workflows into a workforce. Co-Founder and CTO at both." />
 
-[Portfolio](https://luiscedillo.com) · [LinkedIn](https://linkedin.com/in/luisced) · [Email](mailto:me@luiscedillo.com)
+<img src="assets/profile-principles.svg" width="100%" alt="Not another demo. Something that keeps working. Humans direct, agents coordinate, systems hold." />
 
----
-
-## 01 / Building now
-
-**Dopamina — coordinated marketing work.** Turning a message into work across content, publishing, community and ads.
-
-**iLuk — AI employees, real operations.** Building the orchestration layer for acquisition, onboarding, KYC, payments and collections.
-
-Both share the same standard: **human direction, clear handoffs and infrastructure that keeps working.**
-
-## 02 / Selected work
-
-| Project | What I worked on | Core stack |
-| :--- | :--- | :--- |
-| [Flowlink / StackUp](https://flowlink.stack-up.com/) | Backend for Nyx Technology’s hotel channel manager, coordinating inventory, pricing and availability across OTAs. | FastAPI · PostgreSQL · Svelte · AWS |
-| [UPocket](https://github.com/ios-lab-up/UPOCKET) | A university app bringing schedules, attendance, grades and academic links into one daily view. | SwiftUI · Python · FastAPI · Kubernetes |
-| [DermAware](https://github.com/ios-lab-up/DermAware) | Mobile skin-health research combining image recognition and patient workflows; first-listed author of the related Springer book chapter. | SwiftUI · CoreML · Django |
-
-[Explore the case studies →](https://luiscedillo.com)
-
-## 03 / Toolkit
-
-- **AI & systems:** Agentic AI, multi-agent orchestration, distributed systems, cloud architecture.
-- **Backend:** Python, FastAPI, Django, Flask, Rust, C++, Bash.
-- **Mobile & frontend:** Swift / SwiftUI, TypeScript, Svelte, React.
-- **Data & infrastructure:** PostgreSQL, MySQL, AWS, Docker, Kubernetes.
-- **Teams & product:** Mentoring, product ownership, Agile / Scrum.
-
-## 04 / Beyond the code
-
-- **BimboNecta:** 1st place nationally at Swift Change Makers 2026 — an iOS copilot for Grupo Bimbo’s route salespeople, built with the iOS Development Lab UPMX.
-- **Swift Change Makers 2025:** Best Prototype for a SwiftUI app encouraging sustainable habits through gamification.
-- **Published research:** [The DermAware case study](https://link.springer.com/chapter/10.1007/978-3-031-96328-5_2), Springer — mobile dermatological image-recognition research, not clinical diagnostic validation.
-- **Education:** B.Sc. Data Intelligence & Cybersecurity, Universidad Panamericana · 2022–2027, in progress.
-
-## 05 / Let’s make something real.
-
-Building something, untangling a system, or exploring an AI product? [Tell me what you have in mind.](mailto:me@luiscedillo.com)
-
-> Anyone can write code. The real craft is turning an ambitious idea into a system that keeps working after everyone stops watching it.
+<a href="https://luiscedillo.com"><img src="assets/profile-connect.svg" width="100%" alt="Let’s make something real — visit my portfolio." /></a>
 
 <details>
-<summary>Coding activity · WakaTime</summary>
+<summary>Behind the scenes / coding activity</summary>
 
-[View my WakaTime profile](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
+[WakaTime](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
 
 <!--START_SECTION:waka-->
 
