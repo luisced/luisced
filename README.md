@@ -1,97 +1,56 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=440&size=24&pause=1000&center=true&width=435&lines=Luis+Cedillo%2C+Python+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
-</p>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap" rel="stylesheet">
-<h3 align="center" style="font-family:'Fira Code',normal;">What I'm doing now?</h3>
-</link>
+# Luis Cedillo
 
-- 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **API's, SQL, Flask, Automation, React, Swift, AWS**
-- 📫 How to reach me **luis.cedillo.maldonado@gmail.com**
+### I build AI systems that do real work.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/luis-cedillo-maldonado-7122a5247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis cedillo maldonado" height="30" width="40" /></a>
-<a href="https://www.facebook.com/luis.cedillo.792/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis cedillo" height="30" width="40" /></a>
-<a href="https://instagram.com/lui._.cedm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lui._.cedm" height="30" width="40" /></a>
-</p>
+Co-Founder & CTO at **Dopamina** and **iLuk**. Data Intelligence & Cybersecurity student at Universidad Panamericana. Based in Mexico City.
 
+[Portfolio](https://luiscedillo.com) · [LinkedIn](https://linkedin.com/in/luisced) · [Email](mailto:me@luiscedillo.com)
 
-```python
-class Person:
-    def __init__(self, name, profession, interests, aspirations):
-        self.name = name
-        self.profession = profession
-        self.interests = interests
-        self.aspirations = aspirations
+---
 
-    def introduce(self):
-        intro = f"👋 Hi there! I'm {self.name}, a {self.profession}."
-        return intro
+## 01 / Building now
 
-    def describe_interests(self):
-        interests_desc = f"🕹️ When I'm not coding, you can find me playing videogames, exploring new technologies, and jamming to rock music."
-        return interests_desc
+**Dopamina — coordinated marketing work.** Turning a message into work across content, publishing, community and ads.
 
-    def describe_aspirations(self):
-        aspirations_desc = f"🚀 My ultimate goal is to become a {self.aspirations}, contributing to the world of backend and cybersecurity."
-        return aspirations_desc
+**iLuk — AI employees, real operations.** Building the orchestration layer for acquisition, onboarding, KYC, payments and collections.
 
-# Personal information
-name = "Luis"
-profession = "Python Developer"
-interests = ["videogames", "technology", "rock music"]
-aspirations = "backend/cybersecurity engineer"
+Both share the same standard: **human direction, clear handoffs and infrastructure that keeps working.**
 
-# Create a Person instance
-luis = Person(name, profession, interests, aspirations)
+## 02 / Selected work
 
-intro = luis.introduce()
-interests_desc = luis.describe_interests()
-aspirations_desc = luis.describe_aspirations()
+| Project | What I worked on | Core stack |
+| :--- | :--- | :--- |
+| [Flowlink / StackUp](https://flowlink.stack-up.com/) | Backend for Nyx Technology’s hotel channel manager, coordinating inventory, pricing and availability across OTAs. | FastAPI · PostgreSQL · Svelte · AWS |
+| [UPocket](https://github.com/ios-lab-up/UPOCKET) | A university app bringing schedules, attendance, grades and academic links into one daily view. | SwiftUI · Python · FastAPI · Kubernetes |
+| [DermAware](https://github.com/ios-lab-up/DermAware) | Mobile skin-health research combining image recognition and patient workflows; first-listed author of the related Springer book chapter. | SwiftUI · CoreML · Django |
 
-```
+[Explore the case studies →](https://luiscedillo.com)
 
-<h3 align="left">Languages and Tools 📎:</h3>
+## 03 / Toolkit
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+- **AI & systems:** Agentic AI, multi-agent orchestration, distributed systems, cloud architecture.
+- **Backend:** Python, FastAPI, Django, Flask, Rust, C++, Bash.
+- **Mobile & frontend:** Swift / SwiftUI, TypeScript, Svelte, React.
+- **Data & infrastructure:** PostgreSQL, MySQL, AWS, Docker, Kubernetes.
+- **Teams & product:** Mentoring, product ownership, Agile / Scrum.
 
-[![wakatime](https://wakatime.com/badge/user/c7405de5-ee2f-4399-b19b-e2a8e8fd5856.svg)](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
+## 04 / Beyond the code
+
+- **BimboNecta:** 1st place nationally at Swift Change Makers 2026 — an iOS copilot for Grupo Bimbo’s route salespeople, built with the iOS Development Lab UPMX.
+- **Swift Change Makers 2025:** Best Prototype for a SwiftUI app encouraging sustainable habits through gamification.
+- **Published research:** [The DermAware case study](https://link.springer.com/chapter/10.1007/978-3-031-96328-5_2), Springer — mobile dermatological image-recognition research, not clinical diagnostic validation.
+- **Education:** B.Sc. Data Intelligence & Cybersecurity, Universidad Panamericana · 2022–2027, in progress.
+
+## 05 / Let’s make something real.
+
+Building something, untangling a system, or exploring an AI product? [Tell me what you have in mind.](mailto:me@luiscedillo.com)
+
+> Anyone can write code. The real craft is turning an ambitious idea into a system that keeps working after everyone stops watching it.
+
+<details>
+<summary>Coding activity · WakaTime</summary>
+
+[View my WakaTime profile](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
 
 <!--START_SECTION:waka-->
 
@@ -111,3 +70,5 @@ Other                      65 hrs 18 mins        >------------------------   02.
 ```
 
 <!--END_SECTION:waka-->
+
+</details>
